@@ -10,7 +10,7 @@ and license notice below.
 
 # Note on GenAI
 
-For these exercises the use of GenAI is *not permitted*.  To be able to code well requires a solid understanding of the fundamentals, which is best learnt by getting stuck and making mistakes.  If you need support: look at the content provided in these notebooks, [Python's documentation](https://docs.python.org/3/), reputible tutorials such as [W3 Schools](https://www.w3schools.com/python/), ask your friends and/or come to the Helpdesk (see Module for details).
+For these exercises the use of GenAI is *not permitted*.  To be able to code well requires a solid understanding of the fundamentals, which is best learnt by getting stuck and making mistakes.  If you need support: look at the content provided in these notebooks, [Python's documentation](https://docs.python.org/3/), reputable tutorials such as [W3 Schools](https://www.w3schools.com/python/), ask your friends and/or come to the Helpdesk (see Module for details).
 
 # Where to Run
 
